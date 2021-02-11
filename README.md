@@ -8,6 +8,11 @@ Resolution of BDDAD unit course modules and final project.
 
 
 
-| PL's:       |
-|:-------------------|
-| [PL 1](PL1/README.md) |
+### Assignments:
+
+* [PL 1](PL1/README.md)
+
+### Projects:
+
+* [Project: 1](./Project_1)
+* [Project: 2](./Project_2)
